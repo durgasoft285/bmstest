@@ -1,0 +1,1 @@
+this is a terraform version file >1.0
